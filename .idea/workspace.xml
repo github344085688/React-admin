@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d5ad8d-7919-42ab-9114-19da755adeaf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.jsx" afterPath="$PROJECT_DIR$/index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.jsx" afterPath="$PROJECT_DIR$/src/index.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.less" afterPath="$PROJECT_DIR$/src/app.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.scss" afterPath="$PROJECT_DIR$/src/app.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/MessageCenter.svg" afterPath="$PROJECT_DIR$/src/assets/img/MessageCenter.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/Settings.svg" afterPath="$PROJECT_DIR$/src/assets/img/Settings.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/amex.svg" afterPath="$PROJECT_DIR$/src/assets/img/amex.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/arrow-down.svg" afterPath="$PROJECT_DIR$/src/assets/img/arrow-down.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/arrow-mark-up.svg" afterPath="$PROJECT_DIR$/src/assets/img/arrow-mark-up.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/bazi.svg" afterPath="$PROJECT_DIR$/src/assets/img/bazi.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/bell-white.svg" afterPath="$PROJECT_DIR$/src/assets/img/bell-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/bell.svg" afterPath="$PROJECT_DIR$/src/assets/img/bell.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/brokerage.svg" afterPath="$PROJECT_DIR$/src/assets/img/brokerage.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/business.svg" afterPath="$PROJECT_DIR$/src/assets/img/business.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/businessInfo.svg" afterPath="$PROJECT_DIR$/src/assets/img/businessInfo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/calendar.svg" afterPath="$PROJECT_DIR$/src/assets/img/calendar.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/dashboard.svg" afterPath="$PROJECT_DIR$/src/assets/img/dashboard.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/discover.svg" afterPath="$PROJECT_DIR$/src/assets/img/discover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/exchange.svg" afterPath="$PROJECT_DIR$/src/assets/img/exchange.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/eye-gr.svg" afterPath="$PROJECT_DIR$/src/assets/img/eye-gr.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/eye.svg" afterPath="$PROJECT_DIR$/src/assets/img/eye.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/filter-icon.svg" afterPath="$PROJECT_DIR$/src/assets/img/filter-icon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/googlepay.svg" afterPath="$PROJECT_DIR$/src/assets/img/googlepay.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/group.svg" afterPath="$PROJECT_DIR$/src/assets/img/group.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/img-box.svg" afterPath="$PROJECT_DIR$/src/assets/img/img-box.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/last-mile.svg" afterPath="$PROJECT_DIR$/src/assets/img/last-mile.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/left_arrow.svg" afterPath="$PROJECT_DIR$/src/assets/img/left_arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/left_arrow_sh.svg" afterPath="$PROJECT_DIR$/src/assets/img/left_arrow_sh.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/logo-nano.svg" afterPath="$PROJECT_DIR$/src/assets/img/logo-nano.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/logo.svg" afterPath="$PROJECT_DIR$/src/assets/img/logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/master.svg" afterPath="$PROJECT_DIR$/src/assets/img/master.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/menu.svg" afterPath="$PROJECT_DIR$/src/assets/img/menu.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/message.svg" afterPath="$PROJECT_DIR$/src/assets/img/message.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/opera8-nano.svg" afterPath="$PROJECT_DIR$/src/assets/img/opera8-nano.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/payments.svg" afterPath="$PROJECT_DIR$/src/assets/img/payments.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/paypal.svg" afterPath="$PROJECT_DIR$/src/assets/img/paypal.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/quality-control.svg" afterPath="$PROJECT_DIR$/src/assets/img/quality-control.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/right_arrow.svg" afterPath="$PROJECT_DIR$/src/assets/img/right_arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/search.svg" afterPath="$PROJECT_DIR$/src/assets/img/search.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/service.svg" afterPath="$PROJECT_DIR$/src/assets/img/service.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/setting.svg" afterPath="$PROJECT_DIR$/src/assets/img/setting.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/ship.svg" afterPath="$PROJECT_DIR$/src/assets/img/ship.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/shipment.svg" afterPath="$PROJECT_DIR$/src/assets/img/shipment.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/clock.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/clock.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/data.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/data.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-1.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-1.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-10.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-10.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-11.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-11.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-12.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-12.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-13.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-13.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-14.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-14.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-15.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-15.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-16.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-16.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-17.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-17.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-18.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-18.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-19.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-19.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-2.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-2.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-20.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-20.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-21.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-21.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-22.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-22.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-23.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-23.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-24.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-24.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-25.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-25.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-26.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-26.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-3.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-3.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-4.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-4.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-5.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-5.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-6.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-6.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-7.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-7.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-8.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-8.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/ills-9.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/ills-9.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/logomark.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/logomark.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/opera8-logo-black.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/opera8-logo-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/opera8-logo-color.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/opera8-logo-color.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/opera8-logo-white.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/opera8-logo-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/unis-logo-black.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/unis-logo-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/unis-logo-color.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/unis-logo-color.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/svgs/unis-logo-white.svg" afterPath="$PROJECT_DIR$/src/assets/img/svgs/unis-logo-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/tasks.svg" afterPath="$PROJECT_DIR$/src/assets/img/tasks.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/tms2.svg" afterPath="$PROJECT_DIR$/src/assets/img/tms2.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/truckload-info.svg" afterPath="$PROJECT_DIR$/src/assets/img/truckload-info.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/truckload.svg" afterPath="$PROJECT_DIR$/src/assets/img/truckload.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/visa.svg" afterPath="$PROJECT_DIR$/src/assets/img/visa.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/img/warning-mark.svg" afterPath="$PROJECT_DIR$/src/assets/img/warning-mark.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/header.css" afterPath="$PROJECT_DIR$/src/components/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/header.jsx" afterPath="$PROJECT_DIR$/src/components/header.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/like.css" afterPath="$PROJECT_DIR$/src/components/like.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/like.jsx" afterPath="$PROJECT_DIR$/src/components/like.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/more.css" afterPath="$PROJECT_DIR$/src/components/more.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/more.jsx" afterPath="$PROJECT_DIR$/src/components/more.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/otherapp.css" afterPath="$PROJECT_DIR$/src/components/otherapp.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/otherapp.jsx" afterPath="$PROJECT_DIR$/src/components/otherapp.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/search.css" afterPath="$PROJECT_DIR$/src/components/search.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/search.jsx" afterPath="$PROJECT_DIR$/src/components/search.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/spike.css" afterPath="$PROJECT_DIR$/src/components/spike.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/components/spike.jsx" afterPath="$PROJECT_DIR$/src/components/spike.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/css/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/addIcon.eot" afterPath="$PROJECT_DIR$/src/css/fonts/addIcon.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/addIcon.svg" afterPath="$PROJECT_DIR$/src/css/fonts/addIcon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/addIcon.ttf" afterPath="$PROJECT_DIR$/src/css/fonts/addIcon.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/addIcon.woff" afterPath="$PROJECT_DIR$/src/css/fonts/addIcon.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/arrows-left..svg" afterPath="$PROJECT_DIR$/src/css/fonts/arrows-left..svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/toolttipl.svg" afterPath="$PROJECT_DIR$/src/css/fonts/toolttipl.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/unis.eot" afterPath="$PROJECT_DIR$/src/css/fonts/unis.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/unis.svg" afterPath="$PROJECT_DIR$/src/css/fonts/unis.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/unis.ttf" afterPath="$PROJECT_DIR$/src/css/fonts/unis.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/fonts/unis.woff" afterPath="$PROJECT_DIR$/src/css/fonts/unis.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/css/unis.css" afterPath="$PROJECT_DIR$/src/css/unis.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/examples/button.js" afterPath="$PROJECT_DIR$/src/examples/button.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/jd-sprites.png" afterPath="$PROJECT_DIR$/src/images/jd-sprites.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/home.jsx" afterPath="$PROJECT_DIR$/src/layouts/home/home.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/home2.jsx" afterPath="$PROJECT_DIR$/src/layouts/home/home2.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/navigation-components/childNavs.jsx" afterPath="$PROJECT_DIR$/src/layouts/home/navigation-components/childNavs.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/navigation-components/groupName.jsx" afterPath="$PROJECT_DIR$/src/layouts/home/navigation-components/groupName.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/子传父" afterPath="$PROJECT_DIR$/src/layouts/home/子传父" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/home/父组件" afterPath="$PROJECT_DIR$/src/layouts/home/父组件" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/login/login.css" afterPath="$PROJECT_DIR$/src/layouts/login/login.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/login/login.jsx" afterPath="$PROJECT_DIR$/src/layouts/login/login.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/navigation/navigation-components/childNavs.jsx" afterPath="$PROJECT_DIR$/src/layouts/navigation/navigation-components/childNavs.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/navigation/navigation-components/groupName.jsx" afterPath="$PROJECT_DIR$/src/layouts/navigation/navigation-components/groupName.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/navigation/navigation.jsx" afterPath="$PROJECT_DIR$/src/layouts/navigation/navigation.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/layouts/top-navigation/topNavigation.jsx" afterPath="$PROJECT_DIR$/src/layouts/top-navigation/topNavigation.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/common.css" afterPath="$PROJECT_DIR$/src/lib/common.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/swiper.min.css" afterPath="$PROJECT_DIR$/src/lib/swiper.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/swiper.min.js" afterPath="$PROJECT_DIR$/src/lib/swiper.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/router/router.js" afterPath="$PROJECT_DIR$/src/router/router.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/util/jsonp.js" afterPath="$PROJECT_DIR$/src/util/jsonp.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/router/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#39#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>react-redux</find>
+      <find>redux</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.jsx" />
+        <option value="$PROJECT_DIR$/src/router/router.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MarkdownNavigator.Settings.Html" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="E:/react/ReactMyApp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\react-master\React-admin\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Unnamed">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="npm.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d5ad8d-7919-42ab-9114-19da755adeaf" name="Default" comment="" />
+      <created>1661488593931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661488593931</updated>
+      <workItem from="1661488595269" duration="5389000" />
+    </task>
+    <task id="LOCAL-00001" summary="react">
+      <created>1661492731762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661492731762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5389000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="react" />
+    <option name="LAST_COMMIT_MESSAGE" value="react" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/action/type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#39#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
