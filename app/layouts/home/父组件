@@ -1,0 +1,25 @@
+// 父组件
+import React, { Component } from 'react';
+import Button from './button'
+class App extends Component {
+  render () {
+    return (
+      <Button sizeCount={ 0 }/Button>
+    )
+  }
+}
+// button.js
+class App extends Component {
+  constructor(props) {
+    this.state = { count: this.props.sizeCount}
+    this.sizeCountAdd = this.sizeCountAdd.bind(this)
+  }
+  this.sizeCountAdd () {
+    this.setState({count: this.state.count + 1})
+  }
+  render () {
+    return (
+      <button onClick={this.sizeCountAdd}>点击增加</button>
+    )
+  }
+}

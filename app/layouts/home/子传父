@@ -1,0 +1,51 @@
+// 父组件
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.status = this.status.bind(this)
+    this.state = {
+      status: 'true'
+    };
+  }
+  status (sta) {
+    this.setState({status: sta.toString()})
+  }
+  render() {
+    console.log('enter ControlPanel render')
+    return (
+      <div className="App" >
+        <Home onUpdate = {this.status} />
+        <span>{this.state.status}</span>
+      </div>
+    )
+  }
+}
+
+// Home.js 子组件
+class Home extends React.Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+            status: true,
+            count: 0
+        }
+        this.add = this.add.bind(this)
+    }
+    componentWillMount() {
+        console.log('我在render前执行了'+this.state.count)
+    }
+    add () {
+        this.setState(state => ({
+            status: !state.status,
+            count: state.status === true ? '1' : '0'
+        }))
+        this.props.onUpdate(this.state.status)
+    }
+    render() {
+        return (
+            <div>
+                <button onClick={this.add}>{this.state.count}</button>
+            </div>
+        )
+    }
+}
